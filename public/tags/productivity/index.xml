@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity on ilovesoftware.io</title>
+    <link>http://localhost:1313/tags/productivity/</link>
+    <description>Recent content in Productivity on ilovesoftware.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maker Time vs. Manager Time</title>
+      <link>http://localhost:1313/posts/maker-time-vs.-manager-time/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/maker-time-vs.-manager-time/</guid>
+      
+      <description>&lt;p&gt;If you are a knowledge worker, you know the struggle: Each day is a series of meetings, which seem to be randomly distributed throughout your calendar. In between your meetings you answer messages or emails from the various communication tools you use. If you are lucky you‘ll end up with a small oasis of time that you can use to get your „real work“ done. The more responsibility you accumulate at your place of work - for people or projects - the more time you spend with randomly distributed acts of communication.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

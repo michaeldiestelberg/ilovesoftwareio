@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ilovesoftware.io</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on ilovesoftware.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Productizing AI Technology</title>
+      <link>http://localhost:1313/posts/productizing-ai-technology/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/productizing-ai-technology/</guid>
+      
+      <description>&lt;p&gt;The entire world seems to be in an arms race to productize artificial intelligence. Since OpenAI unveiled ChatGPT in November 2022, the software industry has been striving to enhance existing products and create entirely new ones based on the technological breakthrough represented by large language models (LLMs). We have come a long way since those humble beginnings, but productization is still in its early stages. I have closely followed software innovation since the 1990s, and this is perhaps the most interesting and fastest competition to productize new technology I have ever witnessed.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

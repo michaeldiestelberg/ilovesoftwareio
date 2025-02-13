@@ -1,0 +1,17 @@
+title = "ilovesoftware.io"
+baseURL = 'https://ilovesoftware.io/'
+
+# This is what goes in <html lang="">
+languageCode = 'en-us'
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# Enable emojis globally
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
+
+# Specifies the theme
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"

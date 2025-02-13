@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ilovesoftware.io</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on ilovesoftware.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Productizing AI Technology</title>
+      <link>http://localhost:1313/posts/productizing-ai-technology/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/productizing-ai-technology/</guid>
+      
+      <description>&lt;p&gt;The entire world seems to be in an arms race to productize artificial intelligence. Since OpenAI unveiled ChatGPT in November 2022, the software industry has been striving to enhance existing products and create entirely new ones based on the technological breakthrough represented by large language models (LLMs). We have come a long way since those humble beginnings, but productization is still in its early stages. I have closely followed software innovation since the 1990s, and this is perhaps the most interesting and fastest competition to productize new technology I have ever witnessed.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I Write</title>
+      <link>http://localhost:1313/posts/why-i-write/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-i-write/</guid>
+      
+      <description>&lt;p&gt;Incessantly, the voice speaks, confused stuff, without connection. Suddenly, it shoots up from the depths of the subconscious, this mysterious supercomputer that eludes my direct control: an idea. Ideas are invigorating, they feel exciting. Within them slumbers a potential - something valuable that I (and only I) can realize.&lt;/p&gt;
+&lt;p&gt;Ideas are fleeting; they remain in memory only for a moment, in the working memory of the brain. This is where it&amp;rsquo;s decided whether I forget the idea in a moment of carelessness, follow it with blind activism, or first examine it more closely.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Maker Time vs. Manager Time</title>
+      <link>http://localhost:1313/posts/maker-time-vs.-manager-time/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/maker-time-vs.-manager-time/</guid>
+      
+      <description>&lt;p&gt;If you are a knowledge worker, you know the struggle: Each day is a series of meetings, which seem to be randomly distributed throughout your calendar. In between your meetings you answer messages or emails from the various communication tools you use. If you are lucky you‘ll end up with a small oasis of time that you can use to get your „real work“ done. The more responsibility you accumulate at your place of work - for people or projects - the more time you spend with randomly distributed acts of communication.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

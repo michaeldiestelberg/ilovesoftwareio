@@ -46,7 +46,7 @@ Putting those ideas together, an optimized day for the maker/manager mix type co
 	- Smaller tasks that don‘t require much focus
 	- To-do list maintenance and note taking
 
-!![Image Description](/images/Maker%20Time%20vs.%20Manager%20Time.excalidraw.png)
+![[Maker Time vs. Manager Time.excalidraw.png]]
 
 The final implementation of this idea will look slightly different in each organization. Some might start with the Manager Time in the morning, allowing for an open-end maker time in the afternoon/evening. Others will only allow two hours of blocked maker time across all employees. Different time zones will make things even more complex.
 

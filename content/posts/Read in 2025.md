@@ -6,8 +6,11 @@ description: A running list of all things I read in 2025
 ---
 This is what I'm reading in 2025.
 
-```dataview
-TABLE author, category
-FROM "04 Archive/Readwise"
-WHERE date >= date(2025-01-01) AND date < date(2026-01-01)
+```dataviewjs
+let pages = dv.pages('"04 Archive/Readwise"')
+  .where(p => p.date >= dv.date("2025-01-01") && p.date < dv.date("2026-01-01"));
+
+dv.table(["Title", "Author", "Category"], 
+  pages.map(p => [p.file.link, p.author, p.category])
+);
 ```

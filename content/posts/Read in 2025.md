@@ -1,3 +1,9 @@
+---
+title: Read in 2025
+date: 2025-02-17
+author: Michael Diestelberg
+description: A running list of all things I read in 2025
+---
 This is what I'm reading in 2025.
 
 ```dataview
